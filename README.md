@@ -3,7 +3,7 @@
 </p>
 
 
-# MuseSave     ![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)  [![License](https://img.shields.io/npm/l/express.svg)]()
+# MuseSave     ![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)  ![License](https://img.shields.io/npm/l/express.svg)
 
 A tool to download musical.ly videos.
 
