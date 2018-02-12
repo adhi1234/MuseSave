@@ -3,6 +3,23 @@
 </p>
 
 
-# MuseSave
+# MuseSave     ![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)
 
 A tool to download musical.ly videos.
+
+## Installation
+```
+~ ❯❯❯ git clone clone https://github.com/sdushantha/MuseSave.git
+```
+
+## Usage
+```
+usage: musesave.py [-h] [-u URL] [-v]
+
+Musical.ly Downloader
+
+optional arguments:
+  -h, --help         show this help message and exit
+  -u URL, --url URL  URL to the Musical.ly video.
+  -v, --version      Get the current version.
+```
